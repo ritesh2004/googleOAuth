@@ -25,13 +25,7 @@ This is a up-to-date guide for OAuth2.0 with Google in a MERN stack project usin
 Clone the project
 
 ```bash
-  git clone https://github.com/debarshee2004/opensource_guide
-```
-
-Go to the project directory
-
-```bash
-  cd opensource_guide/projects/ritesh2004_GoogleOAuth2.0Guide
+  git clone https://github.com/ritesh2004/googleOAuth
 ```
 
 Install dependencies for frontend
@@ -48,7 +42,7 @@ Start the frontend react app
 Go to server directory
 
 ```bash
-  cd opensource_guide/projects/ritesh2004_GoogleOAuth2.0Guide/server
+  cd ./server
 ```
 Install dependencies for backend
 
